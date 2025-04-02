@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! 👋 I'm Andrii-Nazar  
+🚀 **Freelance Full-Stack Developer** | 💡 Passionate about Web & AI  
 
-<!--
-**Nazarkooo/Nazarkooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack  
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Backend:** Node.js, Express, Python, Django, FastAPI  
+- **Databases:** PostgreSQL, MongoDB, SQL  
+- **Cloud & DevOps:** Docker, AWS, Kubernetes  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nazarkooo&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nazarkooo&layout=compact&theme=radical)  
+ 
